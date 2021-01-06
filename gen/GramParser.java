@@ -1,4 +1,4 @@
-// Generated from D:/Programming/Java/IJ/MatlogC/.idea\Gram.g4 by ANTLR 4.9
+// Generated from D:/Programming/Java/IJ/MatlogC\Gram.g4 by ANTLR 4.9
 import org.antlr.v4.runtime.atn.*;
 import org.antlr.v4.runtime.dfa.DFA;
 import org.antlr.v4.runtime.*;
@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 @SuppressWarnings({"all", "warnings", "unchecked", "unused", "cast"})
 public class GramParser extends Parser {
-//	static { RuntimeMetaData.checkVersion("4.9", RuntimeMetaData.VERSION); }
+	static { RuntimeMetaData.checkVersion("4.9", RuntimeMetaData.VERSION); }
 
 	protected static final DFA[] _decisionToDFA;
 	protected static final PredictionContextCache _sharedContextCache =
